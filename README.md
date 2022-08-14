@@ -11,12 +11,12 @@ $ sudo apt-get install imagemagick
 $ # on Mac: brew install imagemagick
 $ # on Windows: http://www.imagemagick.org/script/binary-releases.php#windows (check "Legacy tools")
 
-$ sudo npm install cordova-icon2 -g
+$ sudo npm install https://github.com/ichihara-yamato/cordova-icon2 -g
 ```
-If you are using an older version of cordova (before 7.x):
+If you are using an older version of cordova (before 10.x):
 
 ```bash
-$ sudo npm install cordova-icon2@0.0.1 -g
+$ sudo npm install https://github.com/ichihara-yamato/cordova-icon2 -g
 ```
 
 ### Requirements
